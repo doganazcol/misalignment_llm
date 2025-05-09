@@ -1,0 +1,10 @@
+fastparquet
+huggingface_hub
+pandas
+pyarrow
+scikit-learn
+sentence-transformers
+openai==0.28
+python -m spacy download en_core_web_sm
+matplotlib 
+seaborn
